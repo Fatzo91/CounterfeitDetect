@@ -1,13 +1,13 @@
 
 # CounterfeitDetect
 
-## Objectif 
+## Objective
 
--  Mettre en place des méthodes d’identification des contrefaçons des billets en euros.
+- Implement methods to identify counterfeit euro banknotes.
 
-- Mettre en place une modélisation qui serait capable d’identifier automatiquement les vrais des faux billets à partir de leurs caractéristiques géométriques.
+- Develop a model capable of automatically distinguishing between genuine and fake banknotes based on their geometric characteristics.
 
-## Outils
+## Tools
 
-Scikitlearn, k-means, Logistic regression, Matplotlib, Seaborn
+Scikit-learn, K-means, Logistic Regression, Matplotlib, Seaborn
 
